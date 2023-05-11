@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B44AA8332A0A80C200AA919C /* Timer.swift in Sources */ = {isa = PBXBuildFile; fileRef = B44AA8322A0A80C200AA919C /* Timer.swift */; };
 		B45D366B29BB6D7D009BE830 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B45D366A29BB6D7D009BE830 /* AppDelegate.swift */; };
 		B45D366D29BB6D7D009BE830 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B45D366C29BB6D7D009BE830 /* SceneDelegate.swift */; };
 		B45D366F29BB6D7D009BE830 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B45D366E29BB6D7D009BE830 /* ViewController.swift */; };
@@ -16,6 +17,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B44AA8322A0A80C200AA919C /* Timer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Timer.swift; sourceTree = "<group>"; };
 		B45D366729BB6D7D009BE830 /* bgchanger.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = bgchanger.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B45D366A29BB6D7D009BE830 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B45D366C29BB6D7D009BE830 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				B45D366A29BB6D7D009BE830 /* AppDelegate.swift */,
 				B45D366C29BB6D7D009BE830 /* SceneDelegate.swift */,
 				B45D366E29BB6D7D009BE830 /* ViewController.swift */,
+				B44AA8322A0A80C200AA919C /* Timer.swift */,
 				B45D367029BB6D7D009BE830 /* Main.storyboard */,
 				B45D367329BB6D84009BE830 /* Assets.xcassets */,
 				B45D367529BB6D84009BE830 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				B45D366F29BB6D7D009BE830 /* ViewController.swift in Sources */,
 				B45D366B29BB6D7D009BE830 /* AppDelegate.swift in Sources */,
 				B45D366D29BB6D7D009BE830 /* SceneDelegate.swift in Sources */,
+				B44AA8332A0A80C200AA919C /* Timer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
